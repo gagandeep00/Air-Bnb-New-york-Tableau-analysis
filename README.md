@@ -13,4 +13,4 @@ Insights generated:
 
 ## Dashboard
 
-![Dashboard](Dashboard 1.png "Title")
+![Dashboard](Dashboard 1.png)
