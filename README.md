@@ -1,4 +1,7 @@
 # AirBnb NewYork Analysis
+
+[Dashboard can be viewed here.](https://public.tableau.com/views/airbnbproject_16620422433420/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
 ### Overview
 Suppose you wish to visit New York soon and are looking for a place to stay while on your visit or consider another scenario in which you visit to invest in New York real estate and earn rent on your properties. In both these scenarios it is of your best interest to find places with lowest/highest rent.
 
