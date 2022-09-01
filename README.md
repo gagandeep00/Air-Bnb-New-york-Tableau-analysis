@@ -13,4 +13,4 @@ Insights generated:
 
 ## Dashboard
 
-same![.](https://imgur.com/a/3s3ry8G)
+![Dashboard](Dashboard 1.png "Title")
